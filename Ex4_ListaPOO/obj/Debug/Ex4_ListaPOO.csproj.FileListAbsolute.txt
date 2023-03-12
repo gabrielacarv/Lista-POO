@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\SIF\3º PERÍODO\POO\Ex4_ListaPOO\bin\Debug\Ex4_ListaPOO.exe.config
+C:\Users\gabri\Documents\SIF\3º PERÍODO\POO\Ex4_ListaPOO\bin\Debug\Ex4_ListaPOO.exe
+C:\Users\gabri\Documents\SIF\3º PERÍODO\POO\Ex4_ListaPOO\bin\Debug\Ex4_ListaPOO.pdb
+C:\Users\gabri\Documents\SIF\3º PERÍODO\POO\Ex4_ListaPOO\obj\Debug\Ex4_ListaPOO.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\SIF\3º PERÍODO\POO\Ex4_ListaPOO\obj\Debug\Ex4_ListaPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Documents\SIF\3º PERÍODO\POO\Ex4_ListaPOO\obj\Debug\Ex4_ListaPOO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\SIF\3º PERÍODO\POO\Ex4_ListaPOO\obj\Debug\Ex4_ListaPOO.exe
+C:\Users\gabri\Documents\SIF\3º PERÍODO\POO\Ex4_ListaPOO\obj\Debug\Ex4_ListaPOO.pdb
