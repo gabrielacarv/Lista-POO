@@ -10,7 +10,7 @@ namespace Exercicio_5
     {
         public double raio;
 
-        public override void CaclcularArea()
+        public override void CalcularArea()
         {
             Area = Math.PI * (raio * raio);
             Console.WriteLine($"Área: {Area}");
@@ -19,7 +19,7 @@ namespace Exercicio_5
         public override void CalcularPerimetro()
         {
             Perimetro = 2 * Math.PI * raio;
-            Console.WriteLine($"Área: {Perimetro}");
+            Console.WriteLine($"Perimetro: {Perimetro}");
         }
     }
 }

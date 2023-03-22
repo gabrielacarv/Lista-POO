@@ -11,7 +11,7 @@ namespace Exercicio_5
         public double Area;
         public double Perimetro;
 
-        public virtual void CaclcularArea()
+        public virtual void CalcularArea()
         {
 
         }

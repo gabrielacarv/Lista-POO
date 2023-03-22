@@ -23,6 +23,7 @@ namespace Exercicio_5
                 Console.WriteLine("2 - Hexágono");
                 Console.WriteLine("3 - Triângulo");
                 Console.WriteLine("4 - Circunferência");
+                Console.WriteLine("5 - Sair");
                 Console.Write("Digite o número correspondete da forma que deseja: ");
                 int opcao = int.Parse(Console.ReadLine());
 
@@ -33,19 +34,23 @@ namespace Exercicio_5
                         Console.WriteLine("Selecionou QUADRADO!");
                         Console.Write("Insira o valor de um dos lados do quadrado: ");
                         quadrado.lado = double.Parse(Console.ReadLine());
-                        quadrado.CaclcularArea();
+                        quadrado.CalcularArea();
                         quadrado.CalcularPerimetro();
-                        validacao = false;
+                        Console.WriteLine();
+                        Console.WriteLine();
+                        validacao = true;
                         break;
 
                     case 2:
                         Console.Clear();
                         Console.WriteLine("Selecionou HEXÁGONO!");
-                        Console.WriteLine("Insira o valor de um dos lados do hexágono: ");
+                        Console.Write("Insira o valor de um dos lados do hexágono: ");
                         hexagono.lado = double.Parse(Console.ReadLine());
-                        hexagono.CaclcularArea();
+                        hexagono.CalcularArea();
                         hexagono.CalcularPerimetro();
-                        validacao = false;
+                        Console.WriteLine();
+                        Console.WriteLine();
+                        validacao = true;
                         break;
 
                     case 3:
@@ -61,19 +66,27 @@ namespace Exercicio_5
                         triangulo.Altura = double.Parse(Console.ReadLine());
                         Console.Write("Insira a base do triângulo: ");
                         triangulo.Base = double.Parse(Console.ReadLine());
-                        triangulo.CaclcularArea();
+                        triangulo.CalcularArea();
                         triangulo.CalcularPerimetro();
-                        validacao = false;
+                        Console.WriteLine();
+                        Console.WriteLine();
+                        validacao = true;
                         break;
 
                     case 4:
                         Console.Clear();
                         Console.WriteLine("Selecionou CIRCUNFERÊNCIA!");
-                        Console.WriteLine("Insira o valor do raio da circunferencia: ");
+                        Console.Write("Insira o valor do raio da circunferencia: ");
                         circunferencia.raio = double.Parse(Console.ReadLine());
-                        circunferencia.CaclcularArea();
+                        circunferencia.CalcularArea();
                         circunferencia.CalcularPerimetro();
-                        validacao = false;
+                        Console.WriteLine();
+                        Console.WriteLine();
+                        validacao = true;
+                        break;
+
+                    case 5:
+                        return;
                         break;
 
                     default:

@@ -10,7 +10,7 @@ namespace Exercicio_5
     {
         public double lado;
 
-        public override void CaclcularArea()
+        public override void CalcularArea()
         {
             Area = (3 * (lado * lado) * Math.Sqrt(3)) / 2;
             Console.WriteLine($"Área: {Area}");
@@ -19,7 +19,7 @@ namespace Exercicio_5
         public override void CalcularPerimetro()
         {
             Perimetro = lado * 6;
-            Console.WriteLine($"Área: {Perimetro}");
+            Console.WriteLine($"Perimetro: {Perimetro}");
         }
     }
 }

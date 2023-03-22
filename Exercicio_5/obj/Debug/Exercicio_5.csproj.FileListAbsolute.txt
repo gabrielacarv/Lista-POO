@@ -6,3 +6,11 @@ C:\Users\gabri\Documents\SIF\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\List
 C:\Users\gabri\Documents\SIF\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Lista_POO_Robinson\Exercicio_5\obj\Debug\Exercicio_5.csproj.CoreCompileInputs.cache
 C:\Users\gabri\Documents\SIF\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Lista_POO_Robinson\Exercicio_5\obj\Debug\Exercicio_5.exe
 C:\Users\gabri\Documents\SIF\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Lista_POO_Robinson\Exercicio_5\obj\Debug\Exercicio_5.pdb
+C:\Users\044323\Documents\Lista-POO-main\Lista-POO-main\Exercicio_5\bin\Debug\Exercicio_5.exe.config
+C:\Users\044323\Documents\Lista-POO-main\Lista-POO-main\Exercicio_5\bin\Debug\Exercicio_5.exe
+C:\Users\044323\Documents\Lista-POO-main\Lista-POO-main\Exercicio_5\bin\Debug\Exercicio_5.pdb
+C:\Users\044323\Documents\Lista-POO-main\Lista-POO-main\Exercicio_5\obj\Debug\Exercicio_5.csproj.AssemblyReference.cache
+C:\Users\044323\Documents\Lista-POO-main\Lista-POO-main\Exercicio_5\obj\Debug\Exercicio_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\044323\Documents\Lista-POO-main\Lista-POO-main\Exercicio_5\obj\Debug\Exercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\044323\Documents\Lista-POO-main\Lista-POO-main\Exercicio_5\obj\Debug\Exercicio_5.exe
+C:\Users\044323\Documents\Lista-POO-main\Lista-POO-main\Exercicio_5\obj\Debug\Exercicio_5.pdb

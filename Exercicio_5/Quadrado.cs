@@ -10,7 +10,7 @@ namespace Exercicio_5
     {
         public double lado;
 
-        public override void CaclcularArea()
+        public override void CalcularArea()
         {
             Area = lado * lado;
             Console.WriteLine($"Área: {Area}");
